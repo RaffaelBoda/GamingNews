@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/GamingNews.iml" filepath="$PROJECT_DIR$/.idea/GamingNews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/News_Backend.iml" filepath="$PROJECT_DIR$/.idea/News_Backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/gaming-news/gaming-news.iml" filepath="$PROJECT_DIR$/gaming-news/gaming-news.iml" />
     </modules>
   </component>
